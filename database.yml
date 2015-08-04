@@ -1,6 +1,6 @@
 development:
   adapter: 'postgresql'
-  database: 'postgres'
+  database: 'postgre1s'
   username: 'postgres'
   password: 'postgres'
 
