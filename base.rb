@@ -12,4 +12,5 @@ class Moe < Sinatra::Base
 end
   
 load "./config.rb", false
+load "./database.rb", false
 load "./routes.rb", false
